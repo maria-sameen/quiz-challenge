@@ -1,4 +1,4 @@
-// Define global variables
+
 var timeLeft = 60; // Total time for the quiz
 var currentQuestionIndex = 0; // Index of the current question
 var score = 0; // Total score for the quiz
